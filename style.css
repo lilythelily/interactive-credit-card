@@ -101,6 +101,7 @@ main {
   position: relative;
   top: 44%;
   left: 88%;
+  width: fit-content;
 }
 
 /* form */
